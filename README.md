@@ -1,7 +1,7 @@
 ### Hi, Here is Nick 👋
 
 
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick6969&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick6969&count_private=true&show_icons=true&theme=synthwave&&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
