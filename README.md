@@ -2,8 +2,5 @@
 
 <br>
 
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick6969&count_private=true&show_icons=true&theme=synthwave&hide=contribs,prs,issues&)](https://github.com/anuraghazra/github-readme-stats)
+![Top](https://github-stats-extended.vercel.app/api?username=nick6969&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
 
-<br>
-
-[![Top Langs in Nick's repo](https://github-readme-stats.vercel.app/api/top-langs/?username=nick6969&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
